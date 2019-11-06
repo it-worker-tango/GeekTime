@@ -9,7 +9,7 @@ def Del(nums):
     return len(nums)
 
 if __name__ == "__main__":
-    test = [1, 1, 3, 1]
+    test = [1]
     a = Del(test)
     print(test)
     print(a)
